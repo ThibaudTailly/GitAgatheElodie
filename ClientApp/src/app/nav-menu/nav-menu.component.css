@@ -1,0 +1,16 @@
+.test {
+  border: solid blue;
+}
+.navbar{
+    background-color:#FF4E00;
+    color:white;
+    padding:15px;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-right:2rem;
+    padding-left:2rem;
+}
+.btn-default {
+  color: white;
+  background:red
+}

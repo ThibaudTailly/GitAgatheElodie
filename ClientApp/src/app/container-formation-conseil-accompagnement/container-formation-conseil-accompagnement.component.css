@@ -1,0 +1,33 @@
+img {
+  width: 8rem;
+  height: 8rem;
+}
+
+.buttonSub {
+  justify-content: center;
+  margin: auto;
+  height: 70px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 0 10px 10px 0;
+  cursor: pointer;
+  font-size: 20px;
+  margin: 20px;
+}
+
+
+.col-4 {
+  text-align: center;
+}
+
+.btn-primary {
+    background-color:#0eb2cc;
+}
+
+p {
+  font-size: 15px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}

@@ -1,0 +1,7 @@
+.col1{
+    background-color:aqua;
+}
+.container{
+    max-width:1800px;
+    border: solid red;
+}
